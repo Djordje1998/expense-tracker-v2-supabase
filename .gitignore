@@ -1,0 +1,12 @@
+# Node
+node_modules/
+
+# Supabase local runtime files
+.supabase/
+volumes/
+temp/
+
+# Env files (contains secrets)
+.env
+.env.local
+.env.*
